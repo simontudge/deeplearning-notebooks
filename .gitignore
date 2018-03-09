@@ -1,3 +1,6 @@
 data/*
 *.DS_Store*
 *.ipynb_checkpoints*
+# No pickle files
+*.pickle
+*.hd5
